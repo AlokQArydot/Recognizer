@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="5" failed="2" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[=====Browser Session Started=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Application Started=====]]>
+    </line>
+    <line>
+      <![CDATA[Total links on page:3]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are javascript:void(0)]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are ]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are http://recognizer.solutions/auth/reset-password]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are Forgot Password ?]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are http://recognizer.solutions/auth/signup]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are Don't have account yet ?]]>
+    </line>
+    <line>
+      <![CDATA[Total broken list:0]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Counts ==============================]]>
+    </line>
+    <line>
+      <![CDATA[The number of <div> elements is: 14]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : Please Sign in
+E-Mail *
+Password *
+Forgot Password ?
+Sign In
+Don't have account yet ?]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (0, 0)]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : ]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (0, 0)]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : Please Sign in
+E-Mail *
+Password *
+Forgot Password ?
+Sign In
+Don't have account yet ?]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (0, 0)]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : Please Sign in
+E-Mail *
+Password *
+Forgot Password ?
+Sign In
+Don't have account yet ?]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (0, 0)]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : Please Sign in
+E-Mail *
+Password *
+Forgot Password ?
+Sign In
+Don't have account yet ?]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (0, 0)]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : Please Sign in
+E-Mail *
+Password *
+Forgot Password ?
+Sign In
+Don't have account yet ?]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (916, 0)]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : E-Mail *]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (946, 173)]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : Password *]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (946, 254)]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : ]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (946, 278)]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : ]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (1312, 278)]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : ]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (1312, 289)]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : Forgot Password ?]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (946, 340)]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : Sign In]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (946, 378)]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Names ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements on page are : Don't have account yet ?]]>
+    </line>
+    <line>
+      <![CDATA[====================== Location  ==============================]]>
+    </line>
+    <line>
+      <![CDATA[Elements Location : (946, 436)]]>
+    </line>
+    <line>
+      <![CDATA[enter username]]>
+    </line>
+    <line>
+      <![CDATA[enter password ]]>
+    </line>
+    <line>
+      <![CDATA[click signin button]]>
+    </line>
+    <line>
+      <![CDATA[Total links on page:9]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are javascript:void(0)]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are ]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are javascript:void(0)]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are Cropping]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are javascript:void(0)]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are Annotation]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are javascript:void(0)]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are VMS]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are javascript:void(0)]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are Offline Analytics]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are javascript:void(0)]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are Real Time Analytics]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are javascript:void(0)]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are Settings]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are javascript:void(0)]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are Logout]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are javascript:void(0)]]>
+    </line>
+    <line>
+      <![CDATA[Links on page are T]]>
+    </line>
+    <line>
+      <![CDATA[Total broken list:0]]>
+    </line>
+    <line>
+      <![CDATA[====================== Elements Counts ==============================]]>
+    </line>
+    <line>
+      <![CDATA[The number of <div> elements is: 136]]>
+    </line>
+    <line>
+      <![CDATA[Project found on the first page!]]>
+    </line>
+    <line>
+      <![CDATA[====================== click on dataset ==============================]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-17T10:19:03 IST" name="Default suite" finished-at="2023-08-17T10:19:25 IST" duration-ms="22153">
+    <groups>
+    </groups>
+    <test started-at="2023-08-17T10:19:03 IST" name="Default test" finished-at="2023-08-17T10:19:25 IST" duration-ms="22153">
+      <class name="testcase.Only_Training">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcase.Only_Training@54e7df6a]" started-at="2023-08-17T10:18:59 IST" name="setup" finished-at="2023-08-17T10:19:03 IST" duration-ms="4429" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session Started=====]]>
+            </line>
+            <line>
+              <![CDATA[=====Application Started=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginPage_Links()[pri:1, instance:testcase.Only_Training@54e7df6a]" started-at="2023-08-17T10:19:03 IST" name="LoginPage_Links" finished-at="2023-08-17T10:19:04 IST" duration-ms="952" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Total links on page:3]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are javascript:void(0)]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are ]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are http://recognizer.solutions/auth/reset-password]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are Forgot Password ?]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are http://recognizer.solutions/auth/signup]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are Don't have account yet ?]]>
+            </line>
+            <line>
+              <![CDATA[Total broken list:0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginPage_Links -->
+        <test-method signature="Loginpage_Elements()[pri:2, instance:testcase.Only_Training@54e7df6a]" started-at="2023-08-17T10:19:04 IST" name="Loginpage_Elements" finished-at="2023-08-17T10:19:04 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====================== Elements Counts ==============================]]>
+            </line>
+            <line>
+              <![CDATA[The number of <div> elements is: 14]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : Please Sign in
+E-Mail *
+Password *
+Forgot Password ?
+Sign In
+Don't have account yet ?]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (0, 0)]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : ]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (0, 0)]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : Please Sign in
+E-Mail *
+Password *
+Forgot Password ?
+Sign In
+Don't have account yet ?]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (0, 0)]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : Please Sign in
+E-Mail *
+Password *
+Forgot Password ?
+Sign In
+Don't have account yet ?]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (0, 0)]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : Please Sign in
+E-Mail *
+Password *
+Forgot Password ?
+Sign In
+Don't have account yet ?]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (0, 0)]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : Please Sign in
+E-Mail *
+Password *
+Forgot Password ?
+Sign In
+Don't have account yet ?]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (916, 0)]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : E-Mail *]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (946, 173)]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : Password *]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (946, 254)]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : ]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (946, 278)]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : ]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (1312, 278)]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : ]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (1312, 289)]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : Forgot Password ?]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (946, 340)]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : Sign In]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (946, 378)]]>
+            </line>
+            <line>
+              <![CDATA[====================== Elements Names ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements on page are : Don't have account yet ?]]>
+            </line>
+            <line>
+              <![CDATA[====================== Location  ==============================]]>
+            </line>
+            <line>
+              <![CDATA[Elements Location : (946, 436)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Loginpage_Elements -->
+        <test-method signature="Recognizer_login()[pri:3, instance:testcase.Only_Training@54e7df6a]" started-at="2023-08-17T10:19:04 IST" name="Recognizer_login" finished-at="2023-08-17T10:19:11 IST" duration-ms="6248" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[enter username]]>
+            </line>
+            <line>
+              <![CDATA[enter password ]]>
+            </line>
+            <line>
+              <![CDATA[click signin button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Recognizer_login -->
+        <test-method signature="Check_HomepageAllLinks()[pri:4, instance:testcase.Only_Training@54e7df6a]" started-at="2023-08-17T10:19:11 IST" name="Check_HomepageAllLinks" finished-at="2023-08-17T10:19:11 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Total links on page:9]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are javascript:void(0)]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are ]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are javascript:void(0)]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are Cropping]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are javascript:void(0)]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are Annotation]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are javascript:void(0)]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are VMS]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are javascript:void(0)]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are Offline Analytics]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are javascript:void(0)]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are Real Time Analytics]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are javascript:void(0)]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are Settings]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are javascript:void(0)]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are Logout]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are javascript:void(0)]]>
+            </line>
+            <line>
+              <![CDATA[Links on page are T]]>
+            </line>
+            <line>
+              <![CDATA[Total broken list:0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Check_HomepageAllLinks -->
+        <test-method signature="HomePageElementsprint()[pri:5, instance:testcase.Only_Training@54e7df6a]" started-at="2023-08-17T10:19:11 IST" name="HomePageElementsprint" finished-at="2023-08-17T10:19:14 IST" duration-ms="3030" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [114] but found [136]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [114] but found [136]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at testcase.TC_005_Home_ElementPrint.HomePageElementsprint(TC_005_Home_ElementPrint.java:38)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[====================== Elements Counts ==============================]]>
+            </line>
+            <line>
+              <![CDATA[The number of <div> elements is: 136]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePageElementsprint -->
+        <test-method signature="project_click1()[pri:6, instance:testcase.Only_Training@54e7df6a]" started-at="2023-08-17T10:19:14 IST" name="project_click1" finished-at="2023-08-17T10:19:14 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Project found on the first page!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- project_click1 -->
+        <test-method signature="Training()[pri:7, instance:testcase.Only_Training@54e7df6a]" started-at="2023-08-17T10:19:14 IST" name="Training" finished-at="2023-08-17T10:19:25 IST" duration-ms="11095" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Start Training']"}
+  (Session info: chrome=115.0.5790.110)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-150-generic', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4390c3c328147f4c6e1149bb66263406, findElement {using=xpath, value=//*[text()='Start Training']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 115.0.5790.170 (cc0d30c2ca5..., userDataDir: /tmp/.org.chromium.Chromium...}, goog:chromeOptions: {debuggerAddress: localhost:37085}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:37085/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4390c3c328147f4c6e1149bb66263406]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Start Training']"}
+  (Session info: chrome=115.0.5790.110)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-150-generic', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4390c3c328147f4c6e1149bb66263406, findElement {using=xpath, value=//*[text()='Start Training']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 115.0.5790.170 (cc0d30c2ca5..., userDataDir: /tmp/.org.chromium.Chromium...}, goog:chromeOptions: {debuggerAddress: localhost:37085}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:37085/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4390c3c328147f4c6e1149bb66263406
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at testcase.Only_Training.Training(Only_Training.java:43)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[====================== click on dataset ==============================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Training -->
+      </class> <!-- testcase.Only_Training -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
